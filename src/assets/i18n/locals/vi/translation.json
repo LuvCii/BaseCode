@@ -1,7 +1,6 @@
 {
   "content": {
-    "functional": "Hàm",
-    "class": "Lớp",
-    "text": "Đây là văn bản"
+    "title": "Xin chào",
+    "name": "Việt Nam"
   }
 }
